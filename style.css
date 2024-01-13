@@ -1,0 +1,126 @@
+.section{
+    display: flex;
+}
+.sidebar{
+    width: 50px;
+}
+.div-mine{
+    width: 90vw;
+}
+.div{
+    width: 350px;
+    height: 900px;
+    padding:100px 50px 0 50px;
+    /* padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 100px; */
+    background-color: rgba(199, 212, 218, 0.729);
+}
+.Welcome{
+    text-align: center;   
+}
+.Balance{
+   
+}
+.back{
+    padding-bottom: 10px;
+}
+.div-d{
+    padding-bottom: 20px;
+}
+.div-dd{
+    padding-top: 15px;
+}
+.h19{
+    font-size: 30px;
+    margin-bottom: -0.80vw;
+}
+
+.div2{
+    width: 700px;
+    height: 900px;
+    background-color: rgba(12, 223, 23, 0.444);
+}
+.div3{
+    width: 250px;
+    height: 900px;
+    background-color: yellow;
+}
+.bank{
+    font-size: 20px;
+}
+.button-1{   
+    width: 110px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: lightcoral;
+}
+.title2{
+    font-size: 20px;
+}
+.date1{
+    margin-bottom: -0.75vw;
+}
+.div-title{
+    margin-top:38px;
+}
+.div2{
+    padding-top: 100px;
+    /* padding:100px 50px 0 50px; */
+}
+.div2-dp{
+    font-size: 20px;
+    margin-bottom: -1vw;
+}
+.div2-title{
+    font-size: 30px;
+}
+.div2-mine2{
+    display: flex;
+}
+.div2-mine3{
+
+}
+
+.div-goal{
+    background-color: rgba(255, 0, 0, 0.401);
+    width: 250px;
+    height: 150px;
+}
+.goal-title{ 
+    font-size: 35px;
+}
+.goal-dp{
+    font-size: 18px;
+    margin-top: -1.50vw;
+}
+.div2-mine3{
+    background-color: rgba(255, 0, 72, 0.401);
+    width: 250px;
+    height: 150px;
+}
+.div2-mine4{
+    background-color: rgba(0, 255, 106, 0.401);
+    width: 250px;
+    height: 150px;
+}
+.div3{
+    padding:100px 50px 0 50px;
+}
+.button-2{
+    text-align: center;
+    width: 200px;
+    height: 50px;
+    border-radius: 20px;
+    background-color: blue;
+}
+.div3 , a{
+    text-align: center;
+    text-decoration: none;
+}
+.div3-title3{
+    font-size: 25px;
+}
+.mine2-title{
+    font-size: 20px;
+}
