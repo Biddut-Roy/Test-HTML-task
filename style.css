@@ -19,9 +19,6 @@
 .Welcome{
     text-align: center;   
 }
-.Balance{
-   
-}
 .back{
     padding-bottom: 10px;
 }
@@ -114,4 +111,12 @@
 }
 .mine2-title{
     font-size: 20px;
+}
+.div3-b{
+    margin-top: 20px;
+    border-left: 2px solid black;
+}
+.bs{
+    text-align: left;
+    margin: 5px;
 }
