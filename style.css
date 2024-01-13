@@ -39,7 +39,15 @@
 .div2{
     width: 700px;
     height: 900px;
-    background-color: rgba(12, 223, 23, 0.444);
+    padding-top: 100px;
+    background-color: rgba(199, 212, 218, 0.729);
+}
+.div-size{
+    width: 600px;
+    margin: auto;
+}
+.text-side{
+    text-align: center;
 }
 .div3{
     width: 250px;
@@ -64,10 +72,6 @@
 .div-title{
     margin-top:38px;
 }
-.div2{
-    padding-top: 100px;
-    /* padding:100px 50px 0 50px; */
-}
 .div2-dp{
     font-size: 20px;
     margin-bottom: -1vw;
@@ -75,15 +79,11 @@
 .div2-title{
     font-size: 30px;
 }
-.div2-mine2{
+.div2-main{
     display: flex;
 }
-.div2-mine3{
 
-}
-
-.div-goal{
-    background-color: rgba(255, 0, 0, 0.401);
+.div-boxSite{
     width: 250px;
     height: 150px;
 }
@@ -94,18 +94,9 @@
     font-size: 18px;
     margin-top: -1.50vw;
 }
-.div2-mine3{
-    background-color: rgba(255, 0, 72, 0.401);
-    width: 250px;
-    height: 150px;
-}
-.div2-mine4{
-    background-color: rgba(0, 255, 106, 0.401);
-    width: 250px;
-    height: 150px;
-}
 .div3{
     padding:100px 50px 0 50px;
+    background-color: rgba(199, 212, 218, 0.729);
 }
 .button-2{
     text-align: center;
